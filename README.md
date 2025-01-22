@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on Open sources
 
-- 👨‍💻 All of my projects are available at [https://taniyabansal.netlify.app/](https://taniyabansal.netlify.app/)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://taniyabansal.netlify.app/)
 
 - 💬 Ask me about **React, Next js, and Nodejs**
 
