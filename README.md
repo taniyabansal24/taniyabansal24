@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Taniya Bansal</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on **Hotel Website for Ayodhya**
+- 🔭 I’m currently working on [**DSA-with-JavaScript**](https://github.com/taniyabansal24/DSA-with-JavaScript)
 
-- 🌱 I’m currently learning **React Native, Kotlin & Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms, React Native, Kotlin & Nodejs**
 
-- 👯 I’m looking to collaborate on [News - squard](https://github.com/sahilsharma6/news-squad)
+- 👯 I’m looking to collaborate on Open sources
 
 - 👨‍💻 All of my projects are available at [https://taniyabansal.netlify.app/](https://taniyabansal.netlify.app/)
 
-- 💬 Ask me about **React, Next js, and GSAP**
+- 💬 Ask me about **React, Next js, and Nodejs**
 
 - 📫 How to reach me **taniya1agarwal@gmail.com**
 
