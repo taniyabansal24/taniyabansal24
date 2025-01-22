@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **taniya1agarwal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1beAXNclyG42vO2y0OMoHlYQ7eVYwzm3E/view?usp=sharing](https://drive.google.com/file/d/1beAXNclyG42vO2y0OMoHlYQ7eVYwzm3E/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**][https://drive.google.com/file/d/1beAXNclyG42vO2y0OMoHlYQ7eVYwzm3E/view?usp=sharing](https://drive.google.com/file/d/1beAXNclyG42vO2y0OMoHlYQ7eVYwzm3E/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny! 😄**
 
